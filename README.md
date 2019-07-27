@@ -1,2 +1,2 @@
 # udu
-The new phone protocol.
+Udu describes a blockchain-backed protocol for a distributed communication network. 
